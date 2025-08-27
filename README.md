@@ -1,49 +1,82 @@
-# Hi there 👋, I'm AbdELhameed
+## 🛠️ Skills & Tools
 
-🎓 Engineering Student  
-💻 Interested in: Embedded Systems, VLSI, Digital Design  
-📚 Currently learning: TCL, FPGA Design, Arduino PID Control  
-🚀 Goals: Become a professional in TCL & Digital IC Design  
-<h2 align="left" id="favorite-tech">⚡ Favorite Tech</h2>
+### 🔹 HDL
+- Verilog  
+- SystemVerilog  
 
-> Tools, languages, and technologies:
+---
 
+### 🔹 Technical Skills
+- UVM, Constraint Random Verification  
+- SystemVerilog Assertions (SVAs)  
+- Functional Coverage, Code Coverage, Formal Verification  
+- RTL Design, STA, CDC, ASIC Flow  
+
+---
+### 🔹 Tools
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C"/>
-      <br>C
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/ModelSim_logo.png" width="48" height="48" alt="Questa"/>
+      <br>Questa / ModelSim
     </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
-      <br>Python
+    <td align="center" width="120">
+      <img src="https://seeklogo.com/images/X/xilinx-logo-615BBA9F9E-seeklogo.com.png" width="48" height="48" alt="Vivado"/>
+      <br>Xilinx Vivado
     </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_of_the_TCL_Corporation.svg" width="48" height="48" alt="TCL"/>
-      <br>TCL
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/?size=512&id=117562&format=png" width="48" height="48" alt="Synopsys"/>
+      <br>Synopsys Tools
     </td>
-    <td align="center" width="96">
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Cadence_logo.png" width="48" height="48" alt="Cadence"/>
+      <br>Cadence Virtuoso
+    </td>
+    <td align="center" width="120">
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="48" height="48" alt="MATLAB"/>
       <br>MATLAB
     </td>
-    <td align="center" width="96">
-      <img src="https://rooman.com/wp-content/uploads/2024/09/tools_verilog.png" width="55" height="100" alt="Verilog"/>
-      <br>Verilog
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Simulink_Logo.png" width="48" height="48" alt="Simulink"/>
+      <br>Simulink
     </td>
-    <td align="center" width="96">
-      <img src="https://www.synopsys.com/content/experience-fragments/synopsys/en-us/global/eda/topnav/master/_jcr_content/root/topnav_copy.coreimg.svg/1706807034006/synopsys-logo-color.svg" width="48" height="48" alt="Synopsys"/>
-      <br>Synopsys
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/LabVIEW_logo.png" width="48" height="48" alt="LabVIEW"/>
+      <br>LabVIEW
     </td>
-    <td align="center" width="96">
-      <img src="https://blog.uber-cdn.com/cdn-cgi/image/width=2048,quality=80,onerror=redirect,format=auto/wp-content/uploads/2023/06/My-project-1.png" width="48" height="48" alt="Cadence"/>
-      <br>Cadence
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Proteus_Logo.png" width="48" height="48" alt="Proteus"/>
+      <br>Proteus
     </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Ansys_logo.png" width="48" height="48" alt="HFSS"/>
+      <br>ANSYS HFSS
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
       <br>Linux
     </td>
   </tr>
 </table>
 
-## 🌐 Connect
-[LinkedIn](your-linkedin) | [Email](mailto:your-email)
+
+---
+### 🔹 Scripting & Programming Languages
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_of_the_TCL_Corporation.svg" width="48" height="48" alt="TCL"/>
+      <br>TCL
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+      <br>Python
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/>
+      <br>C++
+    </td>
+  </tr>
+</table>
