@@ -1,11 +1,12 @@
+<img align="center" alt="GIF" src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" href="https://github.com/sp-xd" width="360px"/>
+
 ## Hey 👋, I'm Rahul Jha!
 
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
-
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmw0ZzdrcGphNjNrNjVmeXczMWloazdtM3MweHJ3OXdtZmlrY2tpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g3tyRsXQ8tiRNEgTkK/giphy.gif" width="360px"/>
+<img align="center" alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" width="360px"/>
   
 ### 🧐 More About Me:
 
@@ -40,29 +41,29 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/ModelSim_logo.png" width="48" height="48" alt="Questa"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/ModelSim_logo.png" width="360px" alt="Questa"/>
       <br>Questa / ModelSim
     </td>
     <td align="center" width="120">
-      <img src="https://seeklogo.com/images/X/xilinx-logo-615BBA9F9E-seeklogo.com.png" width="48" height="48" alt="Vivado"/>
+      <img src="https://seeklogo.com/images/X/xilinx-logo-615BBA9F9E-seeklogo.com.png" width="360px" alt="Vivado"/>
       <br>Xilinx Vivado
     </td>
     <td align="center" width="120">
-      <img src="https://img.icons8.com/?size=512&id=117562&format=png" width="48" height="48" alt="Synopsys"/>
+      <img src="https://img.icons8.com/?size=512&id=117562&format=png" width="360px" alt="Synopsys"/>
       <br>Synopsys Tools
     </td>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Cadence_logo.png" width="48" height="48" alt="Cadence"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Cadence_logo.png" width="360px" alt="Cadence"/>
       <br>Cadence Virtuoso
     </td>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="48" height="48" alt="MATLAB"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="360px" alt="MATLAB"/>
       <br>MATLAB
     </td>
   </tr>
   <tr>
-    <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Simulink_Logo.png" width="48" height="48" alt="Simulink"/>
+    <td align="top" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Simulink_Logo.png" width="360px" alt="Simulink"/>
       <br>Simulink
     </td>
     <td align="center" width="120">
