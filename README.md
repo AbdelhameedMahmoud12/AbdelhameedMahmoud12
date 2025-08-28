@@ -1,24 +1,26 @@
+<div align="center">
+
 <img align="center" alt="GIF" src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" href="https://github.com/sp-xd" width="360px"/>
+</div>
 
-## Hey 👋, I'm Rahul Jha!
+## Hey 👋, I'm Abdelhameed Mahmoud!
 
+I’m an Electronics Engineering student passionate about digital and analog system design, ASIC flow, and hardware–software integration. I enjoy working on everything from transistor-level circuits ⚡ to FPGA prototyping 🔧 and ASIC implementation 🖥️.
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I’ve gained hands-on experience using industry-standard tools (Cadence, Synopsys, Vivado, ModelSim) and lab equipment for assembling and testing hardware. On the digital side, I love applying HDLs (Verilog/SystemVerilog/VHDL) to simulate, implement, and validate systems.
+
+Always eager to learn, innovate, and collaborate, I aim to bring creativity and solid engineering fundamentals to every project I work on 🚀.
 <br/>
 <br/>
-<img align="center" alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" width="360px"/>
-  
+<div align="center">
+<img align="center" alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" width="800px"/>
+  </div>
+
 ### 🧐 More About Me:
-
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AbdelhameedMahmoud12?tab=repositories)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abdelhameed-mahmoud-25097623b/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
 
 
    
@@ -27,60 +29,60 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### 🔹 HDL
 - Verilog  
 - SystemVerilog  
-
+- VHDL
 ---
 
 ### 🔹 Technical Skills
+- RTL Design, STA, CDC, ASIC Flow  
 - UVM, Constraint Random Verification  
 - SystemVerilog Assertions (SVAs)  
 - Functional Coverage, Code Coverage, Formal Verification  
-- RTL Design, STA, CDC, ASIC Flow  
 
 ---
 ### 🔹 Tools
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/ModelSim_logo.png" width="360px" alt="Questa"/>
+      <img src="https://downloadlynet.ir/wp-content/uploads/2020/03/ModelSim.png" width="360px" alt="Questa"/>
       <br>Questa / ModelSim
     </td>
     <td align="center" width="120">
-      <img src="https://seeklogo.com/images/X/xilinx-logo-615BBA9F9E-seeklogo.com.png" width="360px" alt="Vivado"/>
+      <img src="https://mboers.github.io/zynq-notes/assets/screenshots/note-2.jpg" width="360px" alt="Vivado"/>
       <br>Xilinx Vivado
     </td>
     <td align="center" width="120">
-      <img src="https://img.icons8.com/?size=512&id=117562&format=png" width="360px" alt="Synopsys"/>
+      <img src="https://talentportugal.com/wp-content/uploads/2023/08/synopsys-emprego-estagio-candidatura-espontanea-talent-banner.png" width="360px" alt="Synopsys"/>
       <br>Synopsys Tools
     </td>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Cadence_logo.png" width="360px" alt="Cadence"/>
+      <img src="https://cdnlogo.com/logos/c/32/cadence.svg" width="360px" alt="Cadence"/>
       <br>Cadence Virtuoso
     </td>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="360px" alt="MATLAB"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/330px-Matlab_Logo.png" width="360px" alt="MATLAB"/>
       <br>MATLAB
     </td>
   </tr>
   <tr>
     <td align="top" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Simulink_Logo.png" width="360px" alt="Simulink"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" width="360px" alt="Simulink"/>
       <br>Simulink
     </td>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/LabVIEW_logo.png" width="48" height="48" alt="LabVIEW"/>
+      <img src="https://mlegimnpy7qi.i.optimole.com/w:712/h:473/q:mauto/f:best/ig:avif/https://www.softwarekey.com/wp-content/uploads/2015/05/labview-logo.png" width="360px"  alt="LabVIEW"/>
       <br>LabVIEW
     </td>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Proteus_Logo.png" width="48" height="48" alt="Proteus"/>
+      <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" width="360px"  alt="Proteus"/>
       <br>Proteus
     </td>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Ansys_logo.png" width="48" height="48" alt="HFSS"/>
+      <img src="https://logodix.com/logo/1965692.png" width="360px"  alt="HFSS"/>
       <br>ANSYS HFSS
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
-      <br>Linux
+      <img src="https://www.jackenhack.com/wp-content/uploads/2020/01/Quartus_prime_icon.png" width="360px"  alt="Quartus® Prime"/>
+      <br>Quartus® Prime
     </td>
   </tr>
 </table>
@@ -104,3 +106,20 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
     </td>
   </tr>
 </table>
+
+### 🔹 Statistics  
+
+<div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="https://github-readme-stats.vercel.app/api?username=AbdelhameedMahmoud12&show_icons=true&locale=en" alt="AbdelhameedMahmoud12" width="600"/>
+      	    </td>
+            <td style="padding:10px">
+            	<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelhameedMahmoud12&" alt="AbdelhameedMahmoud12" width="600"/>
+            </td>
+        </tr>
+    </table>
+</div>
+
+---
