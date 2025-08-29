@@ -5,11 +5,12 @@
 
 ## Hey 👋, I'm Abdelhameed Mahmoud!
 
-I’m an Electronics Engineering student passionate about digital and analog system design, ASIC flow, and hardware–software integration. I enjoy working on everything from transistor-level circuits ⚡ to FPGA prototyping 🔧 and ASIC implementation 🖥️.
+I am a highly motivated Physical Design Engineer 💻🔧 with strong interests in Digital IC Design ⚡ and Computer Architecture 🖥️. I thrive on tackling challenging designs, approaching problems with creativity ✨ and persistence 💪 until I find effective solutions.
 
-I’ve gained hands-on experience using industry-standard tools (Cadence, Synopsys, Vivado, ModelSim) and lab equipment for assembling and testing hardware. On the digital side, I love applying HDLs (Verilog/SystemVerilog/VHDL) to simulate, implement, and validate systems.
+Beyond working with advanced technologies and tools 🛠️, I value the opportunity to learn from and collaborate with experienced engineers 👨‍💻👩‍💻. My goal is straightforward: to contribute to my team’s success 🎯 while continuously expanding my expertise in Physical Design 📐.
 
-Always eager to learn, innovate, and collaborate, I aim to bring creativity and solid engineering fundamentals to every project I work on 🚀.
+I have completed projects in both FPGA 🔲 and ASIC 🏭 design, which are detailed in the Projects section of this page and on my GitHub
+ 🌐.
 <br/>
 <br/>
 <div align="center">
