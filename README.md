@@ -19,9 +19,9 @@ I have completed projects in both FPGA 🔲 and ASIC 🏭 design, which are deta
 
 ### 🧐 More About Me:
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AbdelhameedMahmoud12?tab=repositories)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://abdelhameedmahmoud12.github.io/)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abdelhameed-mahmoud-25097623b/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1CxkWeLyLVNcPYJCSR1vb9qSRBsmUem5V/view?usp=drive_link)
 
 
    
